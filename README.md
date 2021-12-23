@@ -1,0 +1,2 @@
+# OSN
+Open Spanish NLP
