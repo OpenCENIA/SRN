@@ -1,6 +1,6 @@
 ## 1. Introduction 	
 
-Welcome to the Open Spanish NLP (OSN) project whose objective is to position [CENIA](https://www.cenia.cl) as a reference in the centralization, release and elaboration of NLP resources in Spanish.
+Welcome to the Spanish Resources and Evaluation (SRN) project whose objective is to position [CENIA](https://www.cenia.cl) as a reference in the centralization, release and elaboration of NLP resources in Spanish.
 
 
 
